@@ -14,5 +14,6 @@ https://data.gov.il/dataset/covid-19 (Original dataset)
 <b>
   <li>Logistic Regression
   <li>KNN classification
+  <li>Gradient Boosting
   <li>Random Forest Classifier
-  <li>Support Vector Classifier
+
