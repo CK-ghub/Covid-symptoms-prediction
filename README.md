@@ -6,6 +6,10 @@ The original dataset contained messy and null values which were removed beforeha
 # Dataset
 The cleaned dataset is available in this repository. After preprocessing, the dataset contained NaN values which were taken care of, in the jupyter notebook
 
+### Acknowledgements
+Israel Ministry of Health (Israeli government)
+https://data.gov.il/dataset/covid-19 (Original dataset)
+
 # ML models applied
 <b>
   <li>Logistic Regression
